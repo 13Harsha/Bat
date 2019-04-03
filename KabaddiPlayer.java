@@ -1,6 +1,6 @@
 package codingChallenge;
 
-public abstract class KabaddiPlayer {
+	public abstract class KabaddiPlayer {
 	protected String	name;
 	protected	String	teamName;
 	protected	long	noOfMatches;
